@@ -19,6 +19,10 @@ Welcome to my blog: [Kimi's Blog](https://kimi.qqviaja.com/)
 - Tourism consult (2017 ~ 2019)
 - Java developer (2019 ~ now)
 
+### Ideas
+
+[Ideas](https://github.com/kimichen13/ideas/issues/2)
+
 ### Coding Life
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kimichen13&count_private=true&show_icons=true&include_all_commits=true)
